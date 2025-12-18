@@ -19,4 +19,4 @@ This project was built to practice:
 
 ## How to Run
 ```bash
-python tic_tac_toe.py
+python tictactoe.py
